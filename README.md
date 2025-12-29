@@ -1,9 +1,10 @@
-# README
+<div align="center">
 
-## Hi, I'm Nihal 👋  
-Backend-focused engineering student with a strong interest in building scalable, production-grade systems.
+# Hi, I'm Nihal 👋  
+Backend-focused engineering student building scalable, production-grade systems.  
+Focused on fundamentals, systems, and real-world engineering practices.
 
-Currently focused on backend development, system fundamentals, and real-world engineering practices.
+</div>
 
 ---
 
@@ -28,8 +29,7 @@ Currently focused on backend development, system fundamentals, and real-world en
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-### Platforms & Tools  
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
+### Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -45,8 +45,17 @@ Currently focused on backend development, system fundamentals, and real-world en
 
 ---
 
-## 📫 Contact  
-- **Nihal Mishra**  
-- **GitHub**: [NihalMishra3009](https://github.com/NihalMishra3009)  
-- **LinkedIn**: [Nihal Mishra](https://www.linkedin.com/in/nihal-mishra3009/)  
-- **Email**: nihalmishra@gmail.com  
+## 🌐 Social Network  
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/NihalMishra3009)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihal-mishra3009/)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/Nihal_Mishra30)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nihalmishra@gmail.com)
+
+</div>
+
+---
+
+> Focused on fundamentals. Committed to consistency.
