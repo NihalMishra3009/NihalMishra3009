@@ -1,4 +1,10 @@
 <div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/NihalMishra3009/NihalMishra3009/main/banner.jpg" alt="banner"/>
+</div>
+
+<br/>
+
+<div align="center">
 
 # Nihal Mishra
 
