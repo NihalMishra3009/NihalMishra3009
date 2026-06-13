@@ -77,12 +77,22 @@ Focused on fundamentals, systems, and real-world engineering practices.
 ## 📊 Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=NihalMishra3009&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NihalMishra3009&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888"/>
-</div>
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NihalMishra3009&theme=github-compact&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=888888"/>
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=NihalMishra3009&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&rank_icon=github" alt="stats"/>
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NihalMishra3009&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&langs_count=6" alt="languages"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NihalMishra3009&hide_border=true&bg_color=000000&color=888888&line=ffffff&point=ffffff&area=true&area_color=222222" alt="contribution graph"/>
+
 </div>
 
 ---
