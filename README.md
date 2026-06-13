@@ -1,28 +1,33 @@
-````markdown
+````md
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Welcome+to+Nihal's+GitHub;Backend+Developer;Python+Enthusiast;Building+Scalable+Systems;Learning+System+Design" />
+<img width="100%" src="YOUR_BANNER_URL_HERE" />
 
 # Nihal Mishra
 
-### Backend-Focused Engineering Student
+### Backend Developer • Python Enthusiast • System Design Learner
 
-Building scalable applications, learning system design, and strengthening software engineering fundamentals.
+<p>
+<a href="https://github.com/NihalMishra3009">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<br>
+<a href="https://www.linkedin.com/in/nihal-mishra3009/">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihal-mishra3009/)
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NihalMishra3009)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Nihal_Mishra30)
-[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nihalmishra3009@gmail.com)
+<a href="https://x.com/Nihal_Mishra30">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+</p>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-Hello! I'm **Nihal Mishra**, a backend-focused engineering student passionate about building reliable and scalable software systems.
+Hi, I'm **Nihal Mishra**, a backend-focused engineering student passionate about building scalable and reliable software systems.
 
 - 🚀 Backend Development using Python
 - 🔥 Django, FastAPI & Flask
@@ -34,77 +39,58 @@ Hello! I'm **Nihal Mishra**, a backend-focused engineering student passionate ab
 
 ---
 
-# ⚙️ Technologies
+## ⚙️ Technologies
 
-## Languages
+### Languages
 
-<p align="center">
-
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus)
 
-</p>
-
-## Backend Frameworks
-
-<p align="center">
+### Backend
 
 ![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django)
 ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 
-</p>
-
-## Databases
-
-<p align="center">
+### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase)
 
-</p>
-
-## Tools & Platforms
-
-<p align="center">
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
 
-</p>
-
 ---
 
-# 🚀 Current Focus
+## 🚀 Current Focus
 
-```txt
+```text
 Backend Development
 REST API Design
 Database Architecture
 System Design
 Scalable Applications
 Clean Code Practices
-Open Source Contributions
 ````
 
 ---
 
-# 🏆 GitHub Achievements
+## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NihalMishra3009&theme=darkhub&no-frame=true&row=1&column=6" />
-
+<img src="https://github-profile-trophy.vercel.app/?username=NihalMishra3009&theme=darkhub&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
-# 📊 Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
 
@@ -116,7 +102,7 @@ Open Source Contributions
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
 
@@ -126,7 +112,7 @@ Open Source Contributions
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
 
@@ -136,20 +122,16 @@ Open Source Contributions
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 <p align="center">
 
-<a href="https://github.com/NihalMishra3009">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+<a href="mailto:nihalmishra3009@gmail.com">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/nihal-mishra3009/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://x.com/Nihal_Mishra30">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
@@ -158,15 +140,7 @@ Open Source Contributions
 
 <div align="center">
 
-### 💭 Quote
-
-*"Focused on fundamentals. Committed to consistency."*
-
-</div>
-
----
-
-<div align="center">
+### "Focused on fundamentals. Committed to consistency."
 
 ![](https://komarev.com/ghpvc/?username=NihalMishra3009\&style=for-the-badge)
 
