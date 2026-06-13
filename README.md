@@ -29,12 +29,19 @@ I'm **Nihal Mishra**, an AI & Data Science engineering student building scalable
 I work across backend engineering, fintech infrastructure, and ML fundamentals — with Python, FastAPI, and system design at the core.  
 Currently sharpening DSA daily, exploring LLM workflows, and turning real-world problems into production-grade software.
 
-- 🛠️ Backend development with Python — Django, FastAPI, Flask
-- 🗄️ SQL & NoSQL — MySQL, MongoDB, Firebase
-- 🤖 ML fundamentals & LLM workflows
-- 📐 REST API design and clean architecture
-- 🐧 Linux, Git, and developer tooling
-- ⚙️ Writing maintainable, production-ready code
+- Backend development with Python — Django, FastAPI, Flask
+- SQL & NoSQL — MySQL, MongoDB, Firebase
+- ML fundamentals & LLM workflows
+- REST API design and clean architecture
+- Linux, Git, and developer tooling
+- Writing maintainable, production-ready code
+
+---
+
+## 🏆 Achievements
+
+**🥇 Fintech Domain Winner — Project Morpheus 2026 Hackathon**  
+Built a transaction-safe financial infrastructure platform addressing payout and liquidity challenges in the gig economy. Covered end-to-end fintech infrastructure including secure payouts, wallet systems, and scalable backend architecture.
 
 ---
 
