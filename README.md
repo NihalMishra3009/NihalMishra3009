@@ -1,61 +1,174 @@
+````markdown
 <div align="center">
 
-# Hi, I'm Nihal 👋  
-Backend-focused engineering student building scalable, production-grade systems.  
-Focused on fundamentals, systems, and real-world engineering practices.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Welcome+to+Nihal's+GitHub;Backend+Developer;Python+Enthusiast;Building+Scalable+Systems;Learning+System+Design" />
+
+# Nihal Mishra
+
+### Backend-Focused Engineering Student
+
+Building scalable applications, learning system design, and strengthening software engineering fundamentals.
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihal-mishra3009/)
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NihalMishra3009)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Nihal_Mishra30)
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nihalmishra3009@gmail.com)
 
 </div>
 
 ---
 
-## 🔧 Technologies  
+# 👨‍💻 About Me
 
-### Languages  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+Hello! I'm **Nihal Mishra**, a backend-focused engineering student passionate about building reliable and scalable software systems.
 
-### Backend Frameworks  
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-
-### Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
-### Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+- 🚀 Backend Development using Python
+- 🔥 Django, FastAPI & Flask
+- 🗄️ SQL & NoSQL Databases
+- 🌱 Learning System Design
+- ⚡ REST API Development
+- 📚 Focused on Engineering Fundamentals
+- 🎯 Consistency over Motivation
 
 ---
 
-## 🚀 Current Focus  
-- Backend development using Python frameworks  
-- REST API design and implementation  
-- Working with SQL and NoSQL databases  
-- Building full-stack foundations with HTML, CSS, and JavaScript  
-- Writing clean, maintainable, and scalable backend code  
+# ⚙️ Technologies
+
+## Languages
+
+<p align="center">
+
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+
+</p>
+
+## Backend Frameworks
+
+<p align="center">
+
+![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+
+</p>
+
+## Databases
+
+<p align="center">
+
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase)
+
+</p>
+
+## Tools & Platforms
+
+<p align="center">
+
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+
+</p>
 
 ---
 
-## 🌐 Social Network  
+# 🚀 Current Focus
+
+```txt
+Backend Development
+REST API Design
+Database Architecture
+System Design
+Scalable Applications
+Clean Code Practices
+Open Source Contributions
+````
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=NihalMishra3009&theme=darkhub&no-frame=true&row=1&column=6" />
+
+</p>
+
+---
+
+# 📊 Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NihalMishra3009&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NihalMishra3009&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NihalMishra3009&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NihalMishra3009&theme=github-compact"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/NihalMishra3009">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nihal-mishra3009/">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://x.com/Nihal_Mishra30">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+</a>
+
+</p>
+
+---
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/NihalMishra3009)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihal-mishra3009/)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/Nihal_Mishra30)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nihalmishra@gmail.com)
+### 💭 Quote
+
+*"Focused on fundamentals. Committed to consistency."*
 
 </div>
 
 ---
 
-> Focused on fundamentals. Committed to consistency.
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=NihalMishra3009\&style=for-the-badge)
+
+</div>
+```
