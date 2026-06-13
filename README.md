@@ -25,11 +25,13 @@
 
 ## 👤 About Me
 
-Backend-focused engineering student building scalable, production-grade systems.  
-Focused on fundamentals, systems, and real-world engineering practices.
+I'm **Nihal Mishra**, an AI & Data Science engineering student building scalable backend systems and AI-driven applications.  
+I work across backend engineering, fintech infrastructure, and ML fundamentals — with Python, FastAPI, and system design at the core.  
+Currently sharpening DSA daily, exploring LLM workflows, and turning real-world problems into production-grade software.
 
 - 🛠️ Backend development with Python — Django, FastAPI, Flask
 - 🗄️ SQL & NoSQL — MySQL, MongoDB, Firebase
+- 🤖 ML fundamentals & LLM workflows
 - 📐 REST API design and clean architecture
 - 🐧 Linux, Git, and developer tooling
 - ⚙️ Writing maintainable, production-ready code
