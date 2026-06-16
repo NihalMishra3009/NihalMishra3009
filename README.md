@@ -66,6 +66,7 @@ Built a **transaction-safe fintech infrastructure platform** addressing payout a
 
 </div>
 
+
 ## 🔧 Technologies
 
 **Languages**
