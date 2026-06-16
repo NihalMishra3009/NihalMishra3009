@@ -8,9 +8,10 @@
 
 # Nihal Mishra
 
- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=24&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+Python+Enthusiast;Building+Scalable+Backend+Systems" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&pause=1500&color=FFFFFF&center=true&vCenter=true&width=900&lines=Backend+Developer+%7C+DSA+%7C+Python+%26+Machine+Learning;Engineering+Scalable+and+Production-Ready+Systems" alt="Typing SVG" />
 </p>
+
 <p>
   <a href="https://github.com/NihalMishra3009">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
