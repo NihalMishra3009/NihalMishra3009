@@ -48,25 +48,13 @@ Currently sharpening DSA daily, exploring LLM workflows, and turning real-world 
 
 ## 🏆 Achievements
 
-<h2>🏆 Achievements</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=24&pause=2000&color=F7C843&center=true&vCenter=true&width=850&lines=%F0%9F%A5%87+Fintech+Domain+Winner+%E2%80%94+Project+Morpheus+2026;%F0%9F%92%B3+Built+Transaction-Safe+Fintech+Infrastructure;%F0%9F%94%92+Secure+Payouts+%7C+Wallet+Systems;%E2%9A%A1+Scalable+Backend+Architecture" alt="Typing SVG" />
+</p>
 
-<table>
-<tr>
-<td>
-
-### 🥇 Fintech Domain Winner  
-**Project Morpheus 2026 Hackathon**
-
-Built a transaction-safe financial infrastructure platform addressing payout and liquidity challenges in the gig economy.
-
-- Secure payouts & wallet systems
-- Transaction-safe architecture
-- Scalable backend infrastructure
-- Production-grade fintech design
-
-</td>
-</tr>
-</table>
+<p align="center">
+  Built a transaction-safe financial infrastructure platform addressing payout and liquidity challenges in the gig economy.
+</p>
 
 
 ## 🔧 Technologies
