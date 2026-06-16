@@ -48,7 +48,7 @@ Currently sharpening DSA daily, exploring LLM workflows, and turning real-world 
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:F7C843&height=80&section=header&text=🥇%20Fintech%20Domain%20Winner&fontSize=28&fontColor=FFFFFF&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:F7C843&height=80&section=header&text=🥇%20Fintech%20Domain%20Master&fontSize=28&fontColor=FFFFFF&animation=fadeIn"/>
 </p>
 
 <div align="left">
