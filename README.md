@@ -1,5 +1,4 @@
-```md
-<div align="center">
+ "<div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/NihalMishra3009/NihalMishra3009/main/banner.jpg" alt="banner"/>
 </div>
 
@@ -9,23 +8,18 @@
 
 # Nihal Mishra
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=28&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Backend+Developer;Python+Enthusiast;Building+Scalable+Backend+Systems" alt="Typing SVG" />
-</p>
+### Backend Developer &nbsp;·&nbsp; Python Enthusiast &nbsp;·&nbsp; System Design Learner
 
 <p>
   <a href="https://github.com/NihalMishra3009">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
   <a href="https://www.linkedin.com/in/nihal-mishra3009/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="https://x.com/Nihal_Mishra30">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-
   <a href="mailto:nihalmishra@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -37,114 +31,78 @@
 
 ## 👤 About Me
 
-I'm **Nihal Mishra**, an AI & Data Science engineering student building scalable backend systems and AI-driven applications.
+I'm **Nihal Mishra**, an AI & Data Science engineering student building scalable backend systems and AI-driven applications.  
+I work across backend engineering, fintech infrastructure, and ML fundamentals — with Python, FastAPI, and system design at the core.  
+Currently sharpening DSA daily, exploring LLM workflows, and turning real-world problems into production-grade software.
 
-I work across backend engineering, fintech infrastructure, and ML fundamentals — with **Python**, **FastAPI**, and **System Design** at the core.
-
-Currently sharpening **DSA daily**, exploring **LLM workflows**, and turning real-world problems into production-grade software.
-
-- Backend Development with Python — Django, FastAPI, Flask
+- Backend development with Python — Django, FastAPI, Flask
 - SQL & NoSQL — MySQL, MongoDB, Firebase
-- ML Fundamentals & LLM Workflows
-- REST API Design and Clean Architecture
-- Linux, Git, and Developer Tooling
-- Writing Maintainable, Production-Ready Code
+- ML fundamentals & LLM workflows
+- REST API design and clean architecture
+- Linux, Git, and developer tooling
+- Writing maintainable, production-ready code
 
 ---
 
 ## 🏆 Achievements
 
-### 🥇 Fintech Domain Winner — Project Morpheus 2026 Hackathon
-
-Built a transaction-safe financial infrastructure platform addressing payout and liquidity challenges in the gig economy.
-
-Covered end-to-end fintech infrastructure including:
-
-- Secure payout systems
-- Wallet architecture
-- Transaction safety
-- Scalable backend design
+**🥇 Fintech Domain Winner — Project Morpheus 2026 Hackathon**  
+Built a transaction-safe financial infrastructure platform addressing payout and liquidity challenges in the gig economy. Covered end-to-end fintech infrastructure including secure payouts, wallet systems, and scalable backend architecture.
 
 ---
 
 ## 🔧 Technologies
 
-### Languages
+**Languages**
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css" />
 </p>
 
-### Backend
+**Backend**
 
 <p>
   <img src="https://skillicons.dev/icons?i=django,fastapi,flask" />
 </p>
 
-### Databases
+**Databases**
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
 </p>
 
-### Tools
+**Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <div align="center">
 
 <table>
 <tr>
-
 <td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=NihalMishra3009&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&rank_icon=github"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=NihalMishra3009&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&rank_icon=github" alt="stats"/>
 </td>
-
 <td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NihalMishra3009&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&langs_count=6"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NihalMishra3009&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&langs_count=6" alt="languages"/>
 </td>
-
 </tr>
 </table>
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NihalMishra3009&hide_border=true&bg_color=000000&color=888888&line=ffffff&point=ffffff&area=true&area_color=222222"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=NihalMishra3009&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NihalMishra3009&hide_border=true&bg_color=000000&color=888888&line=ffffff&point=ffffff&area=true&area_color=222222" alt="contribution graph"/>
 
 </div>
-
----
-
-## 🌱 Currently Learning
-
-- Data Structures & Algorithms
-- System Design Fundamentals
-- Machine Learning
-- Large Language Models (LLMs)
-- Backend Scalability
-- Cloud & Deployment
 
 ---
 
 <div align="center">
-
-### 💭 Philosophy
-
-*"Focused on fundamentals. Committed to consistency."*
-
+  <i>Focused on fundamentals. Committed to consistency.</i>
 </div>
-```
+"
