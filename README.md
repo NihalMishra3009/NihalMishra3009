@@ -1,4 +1,4 @@
- "<div align="center">
+ <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/NihalMishra3009/NihalMishra3009/main/banner.jpg" alt="banner"/>
 </div>
 
@@ -121,4 +121,4 @@ Built a **transaction-safe fintech infrastructure platform** addressing payout a
 <div align="center">
   <i>Focused on fundamentals. Committed to consistency.</i>
 </div>
-"
+
