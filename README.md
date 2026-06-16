@@ -48,21 +48,26 @@ Currently sharpening DSA daily, exploring LLM workflows, and turning real-world 
 
 ## 🏆 Achievements
 
+<h2>🏆 Achievements</h2>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:F7C843&height=80&section=header&text=🥇%20Fintech%20Domain%20Winner&fontSize=28&fontColor=FFFFFF&animation=fadeIn"/>
-</p>
+<table>
+<tr>
+<td>
 
-<p align="center">
-<b>Project Morpheus 2026 Hackathon</b>
-</p>
+### 🥇 Fintech Domain Winner  
+**Project Morpheus 2026 Hackathon**
 
-<p align="center">
-Built transaction-safe fintech infrastructure with secure payouts, wallet systems,<br>
-and scalable backend architecture.
-</p>
+Built a transaction-safe financial infrastructure platform addressing payout and liquidity challenges in the gig economy.
 
----
+- Secure payouts & wallet systems
+- Transaction-safe architecture
+- Scalable backend infrastructure
+- Production-grade fintech design
+
+</td>
+</tr>
+</table>
+
 
 ## 🔧 Technologies
 
