@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/NihalMishra3009/NihalMishra3009/main/banner.jpg" alt="banner"/>
 </div>
 
@@ -33,20 +33,21 @@
 
 ## 👤 About Me
 
-I'm **Nihal Mishra**, an AI & Data Science engineering student building scalable backend systems and AI-driven applications.  
-I work across backend engineering, fintech infrastructure, and ML fundamentals — with Python, FastAPI, and system design at the core.  
-Currently sharpening DSA daily, exploring LLM workflows, and turning real-world problems into production-grade software.
+I'm **Nihal Mishra**, AI & Data Science engineering student. Build scalable backend systems, AI-driven apps.
+Work: backend engineering, fintech infra, ML fundamentals. Core stack: Python, FastAPI, system design.
+Currently: DSA daily, LLM workflows, real-world problems → production-grade software.
 
-- Backend development with Python — Django, FastAPI, Flask
+- Backend dev — Django, FastAPI, Flask
 - SQL & NoSQL — MySQL, MongoDB, Firebase
 - ML fundamentals & LLM workflows
-- REST API design and clean architecture
-- Linux, Git, and developer tooling
-- Writing maintainable, production-ready code
+- REST API design, clean architecture
+- Linux, Git, dev tooling
+- Maintainable, production-ready code
 
 ---
 
 ## 🏆 Achievements
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:F7C843&height=80&section=header&text=🥇%20Fintech%20Domain%20Master&fontSize=28&fontColor=FFFFFF&animation=fadeIn"/>
 </p>
@@ -55,43 +56,30 @@ Currently sharpening DSA daily, exploring LLM workflows, and turning real-world 
 
 ### Project Morpheus 2026 Hackathon
 
-Built a **transaction-safe fintech infrastructure platform** addressing payout and liquidity challenges in the gig economy.
+Built **transaction-safe fintech infrastructure platform**. Addresses payout, liquidity challenges in gig economy.
 
 **Key Features**
-- Secure payout and settlement system
+- Secure payout, settlement system
 - Digital wallet architecture
 - Transaction-safe backend design
-- Scalable and production-ready infrastructure
-- Reliable handling of high-volume financial transactions
+- Scalable, production-ready infra
+- Reliable high-volume transaction handling
 
 </div>
-
 
 ## 🔧 Technologies
 
 **Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css" /></p>
 
 **Backend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=django,fastapi,flask" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=django,fastapi,flask" /></p>
 
 **Databases**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" /></p>
 
 **Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=git,github,linux" /></p>
 
 ---
 
@@ -102,10 +90,10 @@ Built a **transaction-safe fintech infrastructure platform** addressing payout a
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=NihalMishra3009&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&rank_icon=github" alt="stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=NihalMishra3009&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&rank_icon=github&cache_seconds=86400" alt="stats" width="100%"/>
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NihalMishra3009&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&langs_count=6" alt="languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NihalMishra3009&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&langs_count=6&cache_seconds=86400" alt="languages" width="100%"/>
 </td>
 </tr>
 </table>
@@ -121,4 +109,3 @@ Built a **transaction-safe fintech infrastructure platform** addressing payout a
 <div align="center">
   <i>Focused on fundamentals. Committed to consistency.</i>
 </div>
-
