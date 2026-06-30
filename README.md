@@ -90,10 +90,10 @@ Built **transaction-safe fintech infrastructure platform**. Addresses payout, li
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=NihalMishra3009&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&rank_icon=github&cache_seconds=86400" alt="stats" width="100%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NihalMishra3009&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&rank_icon=github&cache_seconds=86400" alt="stats" width="100%"/>
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NihalMishra3009&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&langs_count=6&cache_seconds=86400" alt="languages" width="100%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NihalMishra3009&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&langs_count=6&cache_seconds=86400" alt="languages" width="100%"/>
 </td>
 </tr>
 </table>
