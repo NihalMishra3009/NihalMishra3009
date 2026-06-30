@@ -89,11 +89,11 @@ Built **transaction-safe fintech infrastructure platform**. Addresses payout, li
 
 <table>
 <tr>
-<td>
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NihalMishra3009&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&rank_icon=github&cache_seconds=86400" alt="stats" width="100%"/>
+<td width="50%" valign="top">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NihalMishra3009&show_icons=true&hide_border=false&border_color=888888&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&rank_icon=github&cache_seconds=86400" alt="stats" width="100%" height="195px"/>
 </td>
-<td>
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NihalMishra3009&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&langs_count=6&cache_seconds=86400" alt="languages" width="100%"/>
+<td width="50%" valign="top">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NihalMishra3009&layout=compact&hide_border=false&border_color=888888&bg_color=000000&title_color=ffffff&text_color=888888&langs_count=6&cache_seconds=86400" alt="languages" width="100%" height="195px"/>
 </td>
 </tr>
 </table>
